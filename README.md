@@ -33,4 +33,4 @@ Architected an optimized gradient-boosting pipeline for complex tabular forecast
 ### 📈 Current Focus Area
 I am actively focused on the full lifecycle of MLOps—specifically automating the deployment pipelines of generative workflows, optimization frameworks, and high-density corporate reporting layers in remote-eligible, high-documentation engineering environments.
 
-📫 **Connect with me:** [Your LinkedIn Profile Link]
+📫 **Connect with me:** www.linkedin.com/in/jennyjamesdatascientistgeophysicist
